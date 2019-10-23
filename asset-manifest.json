@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vcc-2019/static/css/main.d11100d0.chunk.css",
+    "main.js": "/vcc-2019/static/js/main.45445314.chunk.js",
+    "main.js.map": "/vcc-2019/static/js/main.45445314.chunk.js.map",
+    "runtime-main.js": "/vcc-2019/static/js/runtime-main.c565da70.js",
+    "runtime-main.js.map": "/vcc-2019/static/js/runtime-main.c565da70.js.map",
+    "static/js/2.1fd9834a.chunk.js": "/vcc-2019/static/js/2.1fd9834a.chunk.js",
+    "static/js/2.1fd9834a.chunk.js.map": "/vcc-2019/static/js/2.1fd9834a.chunk.js.map",
+    "index.html": "/vcc-2019/index.html",
+    "precache-manifest.88950e098d88a23877d741f751d5bf8e.js": "/vcc-2019/precache-manifest.88950e098d88a23877d741f751d5bf8e.js",
+    "service-worker.js": "/vcc-2019/service-worker.js",
+    "static/css/main.d11100d0.chunk.css.map": "/vcc-2019/static/css/main.d11100d0.chunk.css.map",
+    "static/media/sportsday.png": "/vcc-2019/static/media/sportsday.8f6da69e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c565da70.js",
+    "static/js/2.1fd9834a.chunk.js",
+    "static/css/main.d11100d0.chunk.css",
+    "static/js/main.45445314.chunk.js"
+  ]
+}
